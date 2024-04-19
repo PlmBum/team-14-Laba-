@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("лаба 14 команда ура")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40d3cbb9f80618f913ff50a35626a04de9c57c27")]
 [assembly: System.Reflection.AssemblyProductAttribute("лаба 14 команда ура")]
 [assembly: System.Reflection.AssemblyTitleAttribute("лаба 14 команда ура")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
