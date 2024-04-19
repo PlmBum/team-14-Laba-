@@ -11,5 +11,10 @@ namespace лаба_14_команда_ура
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
