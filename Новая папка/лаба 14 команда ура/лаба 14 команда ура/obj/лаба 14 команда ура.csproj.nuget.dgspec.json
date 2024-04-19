@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xd\\source\\repos\\Новая папка\\Новая папка\\лаба 14 команда ура\\лаба 14 команда ура\\лаба 14 команда ура.csproj": {}
+    "C:\\Users\\windows 10\\Desktop\\Новая папка\\Новая папка\\лаба 14 команда ура\\лаба 14 команда ура\\лаба 14 команда ура.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xd\\source\\repos\\Новая папка\\Новая папка\\лаба 14 команда ура\\лаба 14 команда ура\\лаба 14 команда ура.csproj": {
+    "C:\\Users\\windows 10\\Desktop\\Новая папка\\Новая папка\\лаба 14 команда ура\\лаба 14 команда ура\\лаба 14 команда ура.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xd\\source\\repos\\Новая папка\\Новая папка\\лаба 14 команда ура\\лаба 14 команда ура\\лаба 14 команда ура.csproj",
+        "projectUniqueName": "C:\\Users\\windows 10\\Desktop\\Новая папка\\Новая папка\\лаба 14 команда ура\\лаба 14 команда ура\\лаба 14 команда ура.csproj",
         "projectName": "лаба 14 команда ура",
-        "projectPath": "C:\\Users\\xd\\source\\repos\\Новая папка\\Новая папка\\лаба 14 команда ура\\лаба 14 команда ура\\лаба 14 команда ура.csproj",
-        "packagesPath": "C:\\Users\\xd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xd\\source\\repos\\Новая папка\\Новая папка\\лаба 14 команда ура\\лаба 14 команда ура\\obj\\",
+        "projectPath": "C:\\Users\\windows 10\\Desktop\\Новая папка\\Новая папка\\лаба 14 команда ура\\лаба 14 команда ура\\лаба 14 команда ура.csproj",
+        "packagesPath": "C:\\Users\\windows 10\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\windows 10\\Desktop\\Новая папка\\Новая папка\\лаба 14 команда ура\\лаба 14 команда ура\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\xd\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -67,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
