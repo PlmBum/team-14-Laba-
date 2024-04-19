@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\команда\\Новая папка\\Новая папка\\лаба 14 команда ура\\лаба 14 команда ура\\лаба 14 команда ура.csproj",
+      "projectUniqueName": "C:\\Users\\windows 10\\Desktop\\Новая папка\\Новая папка\\лаба 14 команда ура\\лаба 14 команда ура\\лаба 14 команда ура.csproj",
       "projectName": "лаба 14 команда ура",
-      "projectPath": "E:\\команда\\Новая папка\\Новая папка\\лаба 14 команда ура\\лаба 14 команда ура\\лаба 14 команда ура.csproj",
+      "projectPath": "C:\\Users\\windows 10\\Desktop\\Новая папка\\Новая папка\\лаба 14 команда ура\\лаба 14 команда ура\\лаба 14 команда ура.csproj",
       "packagesPath": "C:\\Users\\windows 10\\.nuget\\packages\\",
-      "outputPath": "E:\\команда\\Новая папка\\Новая папка\\лаба 14 команда ура\\лаба 14 команда ура\\obj\\",
+      "outputPath": "C:\\Users\\windows 10\\Desktop\\Новая папка\\Новая папка\\лаба 14 команда ура\\лаба 14 команда ура\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
