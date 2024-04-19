@@ -30,13 +30,15 @@
         {
             button1 = new Button();
             button2 = new Button();
+            fileSystemWatcher1 = new FileSystemWatcher();
+            ((System.ComponentModel.ISupportInitialize)fileSystemWatcher1).BeginInit();
             SuspendLayout();
             // 
             // button1
             // 
-            button1.Location = new Point(53, 336);
+            button1.Location = new Point(38, 332);
             button1.Name = "button1";
-            button1.Size = new Size(196, 53);
+            button1.Size = new Size(172, 90);
             button1.TabIndex = 0;
             button1.Text = "Редактировать заказ";
             button1.UseVisualStyleBackColor = true;
@@ -44,23 +46,29 @@
             // 
             // button2
             // 
-            button2.Location = new Point(518, 336);
+            button2.Location = new Point(278, 332);
             button2.Name = "button2";
-            button2.Size = new Size(196, 53);
+            button2.Size = new Size(172, 90);
             button2.TabIndex = 1;
             button2.Text = "Удалить заказ";
             button2.UseVisualStyleBackColor = true;
+            // 
+            // fileSystemWatcher1
+            // 
+            fileSystemWatcher1.EnableRaisingEvents = true;
+            fileSystemWatcher1.SynchronizingObject = this;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(777, 440);
             Controls.Add(button2);
             Controls.Add(button1);
             Name = "Form1";
             Text = "Form1";
             Load += Form1_Load;
+            ((System.ComponentModel.ISupportInitialize)fileSystemWatcher1).EndInit();
             ResumeLayout(false);
         }
 
@@ -68,5 +76,6 @@
 
         private Button button1;
         private Button button2;
+        private FileSystemWatcher fileSystemWatcher1;
     }
 }

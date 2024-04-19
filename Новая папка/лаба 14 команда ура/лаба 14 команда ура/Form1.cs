@@ -16,5 +16,10 @@ namespace лаба_14_команда_ура
         {
 
         }
+
+        private void tabPage2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
